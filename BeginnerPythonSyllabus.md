@@ -5,7 +5,8 @@
   > Discuss some of the concepts behind computer science and programming.
     Familiarize the class with software and hardware terms.  
     + What are programs and programming languages?
-    + How do computers do what they do?  
+    + How does a computer use a program?  
+    + What language does a computer speak?
     + What are the main parts of a computer?  
       + input
       + output
@@ -17,27 +18,29 @@
   + Instruction
   + In class exercises
   + Review
+  + In class exercises
   + Homework
-  > Discuss how to get help.
+  + Final class project
+  > Discuss how to get help
   + Built in help system
   + Email other students
   + Email instructor
   + Ask after class
   
-  > **In Class**: Demonstrate various programs
+  > **In Class**: Demonstrate tools and programs
+  + Login in to JupyterHub
   + Interactive programs
   + Calculations
   + Graphing
   > **Homework**: _No homework yet_
 
 + **Lesson 2:  Setting Up A Development Environment**
-  > Discuss the tools we are going to use:
+  > Discuss and demonstrate the tools we are going to use:
   + Python3
   + Jupyter Notbook
   + Jupyter Hub
   + GitHub
   + Email
-  > Talk about homework and final class project.
 
   > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.
 
@@ -59,35 +62,38 @@
 
   > **In Class**: Given two variables, create a swap algorithm so the values are swapped but nothing is lost.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  Follow the instructions in the notebook.
 
 + **Lesson 4: Data Structures**
-  > Discussion built in data structures
+  > Discuss built in data structures
   + List
   + Dictionary
   + Tuples
   + Set
   + Class
-  > **In Class**: Given a list of student's names and test scores, calculate the following:
-  + Highest score
-  + Lowest score
-  + Median score
-  + Mean (average) score
+  > **In Class**: Given various data structures, load data and manipulate the structures.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".  This is a homework where you can practice data structure manipulation using the python notebook.  You will write code that creates and manipulates all the data structures you learned today. Follow the instructions in the notebook.
 
 + **Lesson 5:  Looping and Conditional Statements**
   > Discuss the various looping constructs
   + Boolean statements
   + for loops
   + while loops
+  + break statements
+  + continue statements
 
   > Discuss flow of control and conditional statements
   + if statements
+  + if else
 
-  > **In Class**: Various exercises using looping and flow of control.
+  > **In Class**: Various exercises using looping and flow of control.  Use loops to calculate the _**Fibonacci**_ sequence to the nth value.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Given various data structures with labels and values, calculate the following on this data:
+  + Highest score
+  + Lowest score
+  + Median score
+  + Mean (average) score
 
 + **Lesson 6:  Functions and Packages**
   > Describe reusable code
@@ -98,18 +104,15 @@
   > Take reusability up a level, introduce packages
     + What is a package?
     + Why do we need packages?
-    + Discuss interesting packages
+    + Discuss fundamental packages
       + sys
       + env
+      + math
       + csv
-      + pandas
-      + numpy
-      + scipy
-      + scikit-learn
 
-  > **In Class**: Various exercises using personal functions and functions from packages
+  > **In Class**: Use the help system to identify functions available in various packages.  
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Read a file of data, for every keyword in the file accumulate statistics.  Store those statistics in data structures and report them as output.
 
 + **Lesson 7:  Handling Exceptions**
   > What happens if an error happens?
@@ -117,7 +120,7 @@
   + Describe situations where errors may occur?
   + Demonstrate programs with exceptions and programs without.
   + Describe the exception mechanism.
-  > **In Class**: Various exercises using personal functions and functions from packages
+  > **In Class**: Given a list of data, write a program that performs various mathematical manipulations on that data.  Your program has to handle missing or incorrect data correctly.
 
   > **Homework**: \<fill this in>
 
@@ -128,10 +131,11 @@
   + pandas
   + scikit-learn
   + beautiful soup
+  + matplotlib
 
   > **In Class**: Various exercises using personal functions and functions from packages
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  
 
 + **Lesson 9:  Data**
   > Discuss why data is necessary for computing.
@@ -140,9 +144,9 @@
   + What kind of data are we talking about?
   + Where do we get the data?
 
-  > **In Class**: Various exercises using personal functions and functions from packages
+  > **In Class**: Given a URL, download a webpage and do a statistical analysis on the words in the page.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Given a time series of stock prices for different dates, figure out how much money a stock position has made or lost assuming a number of shares bought on a specific date.
 
 + **Lesson 10: Graphics**
   > Creating visual objects using the python graphic system.
@@ -158,11 +162,12 @@
   + Details about the class object
     + Constructor
     + Member Functions
+    + Virtual Functions
     + Static Functions
 
-  > **In Class**: Various exercises using personal functions and functions from packages
+  > **In Class**: Create a hierarchy that represents employees at a company.  Give these employees various attributes and observe how the virtual function mechanism works.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: 
 
 + **Lesson 12: Final Project - In Class**
   > Review the course and discuss final course project.  Project will be done in class.
