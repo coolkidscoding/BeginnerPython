@@ -2,7 +2,7 @@
 ---
 
 + **Lesson 1:  Background and Theory**
-  > Discuss some of the concepts behind computer science.  
+  > Discuss some of the concepts behind computer science and programming.
     Familiarize the class with software and hardware terms.  
     + What are programs and programming languages?
     + How do computers do what they do?  
@@ -41,10 +41,11 @@
 
   > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  
+  Run each cell and tell me what the last cell outputs.
 
 + **Lesson 3: Variables and Data Types**
-  > Discus the importance of variables.  
+  > Discus the use and importance of variables.  
 
   + Types of variables
     + float
@@ -53,11 +54,12 @@
     + onject
   + Naming variables
   + Reserved words
+  + Operators
   + Scope of variables
 
-  > **In Class**: Various exercises using variable assignment.
+  > **In Class**: Given two variables, create a swap algorithm so the values are swapped but nothing is lost.
 
-  > **Homework**: \<fill this in>
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.
 
 + **Lesson 4: Data Structures**
   > Discussion built in data structures
@@ -66,7 +68,11 @@
   + Tuples
   + Set
   + Class
-  > **In Class**: Various exercises using the data structures just discussed.
+  > **In Class**: Given a list of student's names and test scores, calculate the following:
+  + Highest score
+  + Lowest score
+  + Median score
+  + Mean (average) score
 
   > **Homework**: \<fill this in>
 
