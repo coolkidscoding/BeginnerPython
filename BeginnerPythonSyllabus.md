@@ -7,6 +7,10 @@
     + What are programs and programming languages?
     + How do computers do what they do?  
     + What are the main parts of a computer?  
+      + input
+      + output
+      + storage
+      + cpu
     + What are we going to learn in this course?  
     + How is knowing this going to help me?
   > How is this course going to be structured?
