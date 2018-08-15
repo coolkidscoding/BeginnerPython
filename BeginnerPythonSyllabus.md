@@ -23,15 +23,16 @@
   + Review
   + Final class project
   > Discuss how to get help
+  + Ask questions if you don't understand
   + Built in help system
   + Email instructor
   + Ask after class
   
   > **In Class**: Demonstrate tools and programs
-  + Login in to JupyterHub
-  + Interactive programs
-  + Calculations
-  + Graphing
+  + Login in to JupyterHub, open a notebook
+  + Demo Interactive programs
+  + Demo Calculations
+  + Demo Graphing
   > **Homework**: _No homework yet_
 
 + **Lesson 2:  Setting Up A Development Environment**
