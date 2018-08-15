@@ -11,3 +11,5 @@
 | Yoon      | Maddie     |  myoon |   |   |
 | Zwirn     | James      |  jzwirn |   |   |
 | Rutkoske  | Cade       |  crutkoske |   |   |
+| Prabhu | Uma       |  uprabhu |   |   |
+| Wallace | Nolan       |  nwallace |   |   |

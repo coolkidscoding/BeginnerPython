@@ -59,7 +59,7 @@
     + float
     + int
     + string
-    + onject
+    + object
   + Naming variables
   + Reserved words
   + Operators
@@ -146,7 +146,7 @@
   + scipy
   + pandas
   + scikit-learn
-  + beautiful soup
+  + beautifulsoup
   + matplotlib
 
   > **In Class**: We will be graphing various mathematical functions across a range of values.  In this class we will discuss _**Cartesian Coordinates**_. Visualizing these functions gives unmeasured insight.
