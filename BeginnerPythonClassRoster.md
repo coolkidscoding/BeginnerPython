@@ -13,5 +13,5 @@
 | Rutkoske  | Cade       |  crutkoske |   |   |
 | Prabhu | Uma       |  uprabhu |   |   |
 | Wallace | Nolan       |  nwallace |   |   |
-| Available |        |   |   |   |
-| Available |        |  |   |   |
+| Hamilton | Skye       |  shamilton |   |   |
+| Available | Available  | Available |   |   |
