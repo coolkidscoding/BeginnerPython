@@ -2,7 +2,7 @@
 ---
 
 | Last Name | First Name | UserID | Parent Email1  | Parent Email2  |
-|-----------|------------|---|---|---|
+|:---|:-----------|:--|:--|:--|
 | Rizos     | Nikolas    |  nrizos | michelle@rizosfamily.com  | jimmy@rizosfamily.com  |
 | Klimczak  | Ethan      |  eklimczak |   |   |
 | Prabhu    | Ram        |  rprabhu |   |   |
