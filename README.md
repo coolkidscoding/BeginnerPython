@@ -1,4 +1,4 @@
-# IntroductoryPython Course Description
+# Introductory Python Course Description
 ## The Introductory Python Programming course offered at [Cool Kids Coding School](http://www.coolkidscodingschool.com)
 
 ## Description
