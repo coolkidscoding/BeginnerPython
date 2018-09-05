@@ -2,7 +2,7 @@
 ---
 
 | Last Name | First Name | UserID | Session |
-|:---|:-----------|:--|:--|:--|
+|:---|:-----------|:--|:--|
 | Rizos     | Nikolas    |  nrizos | IP001 |
 | Klimczak  | Ethan      |  eklimczak | IP001 |
 | Prabhu    | Ram        |  rprabhu | IP002 |
