@@ -68,10 +68,10 @@
   + Converting between types
   + Output of variables
 
-  > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.  Use python as a calculator.  Get comfortable with the Jupyter Notebook.
+  > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.  Use python as a calculator.  Get comfortable with the Jupyter Notebook.  Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Also execute the inverse operation on the function and make sure your answer makes sense.  Use markdown cells in your notebook and add your name and date in it.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  
-  Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Your notebook should have markdown cells with our name and date in it.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  Follow the instructions in the notebook.
+
 
 + **Lesson 3: Data Structures**
   > Discuss built in data structures  
@@ -82,10 +82,10 @@
   > Discuss the way to access data in a data structure
   + Indexing
 
-  > **In Class**: Create a program that asks you for your birth year and calculates how old you are.  Modify the program to tell you how old you will be at various points in the future or in the past. 
+  > **In Class**: Given a set of data populate the data into various data structures.  Exercise different methods on these data structures and print information about them.  
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  Follow the instructions in the notebook.
-
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned today. Follow the instructions in the notebook.
+  
 + **Lesson 4: More Data Structures**
   > Discuss built in and more complex data structures
   + Set
@@ -98,7 +98,7 @@
 
   > **In Class**: Given various data structures, load data and manipulate the structures.  Answer questions about indexing and slicing
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned today. Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned in the last two lessons. Follow the instructions in the notebook.
 
 + **Lesson 5:  Looping and Conditional Statements**
   > Discuss the various looping constructs
