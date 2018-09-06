@@ -1,4 +1,4 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Beginner Python**<br>  Fall 2018
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Introductory Python**<br>  Fall 2018
 ---
 
 + **Lesson 1:  Background and Theory**
@@ -12,6 +12,7 @@
       + input
       + output
       + storage
+      + memory
       + cpu
     + What are we going to learn in this course?  
     + How is knowing this going to help me?
@@ -35,25 +36,19 @@
   + Demo Graphing
   > **Homework**: _No homework yet_
 
-+ **Lesson 2:  Setting Up A Development Environment**
++ **Lesson 2:  Development Environment, Variables and Operators**
   > Discuss the language we are going to be learning
   + Python3
   + Indentation 
-  + Guido Van Rossum
+  + Structure of a program
   
   > Discuss and demonstrate the tools we are going to use:
   + Python3
-  + Jupyter Notbook
+  + Jupyter Notebook
   + Jupyter Hub
   + GitHub
   + Email
 
-  > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  
-  Start with the **_Hello World_** program but modify it to ask you your name before it prints "Hello World" with your name appended to it.
-
-+ **Lesson 3: Variables and Data Types**
   > Discuss the use and importance of variables.  
 
   + Types of variables
@@ -64,26 +59,42 @@
   + Naming variables
   + Reserved words
   + Operators
+    + addition
+    + subtraction
+    + multiplication
+    + exponentiation
+    + modulo
   + Scope of variables
   + Converting between types
   + Output of variables
+
+  > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.  Use python as a calculator.  Get comfortable with the Jupyter Notebook.
+
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  
+  Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Your notebook should have markdown cells with our name and date in it.
+
++ **Lesson 3: Data Structures**
+  > Discuss built in data structures  
+  + List
+  + Dictionary
+  + Tuples
+  > Discuss ways to add data to a data structure
+  > Discuss the way to access data in a data structure
+  + Indexing
 
   > **In Class**: Create a program that asks you for your birth year and calculates how old you are.  Modify the program to tell you how old you will be at various points in the future or in the past. 
 
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  Follow the instructions in the notebook.
 
-+ **Lesson 4: Data Structures**
-  > Discuss built in data structures
-  + List
-  + Dictionary
-  + Tuples
++ **Lesson 4: More Data Structures**
+  > Discuss built in and more complex data structures
   + Set
   + Class
-  + Queues 
-  + Stacks
+  + Queue
+  + Stack
+  > Discuss ways to add data to a data structure
   > Discuss the way to access data in a data structure
   + Slices
-  + Indexing
 
   > **In Class**: Given various data structures, load data and manipulate the structures.  Answer questions about indexing and slicing
 
