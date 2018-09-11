@@ -37,9 +37,9 @@
   > **Homework**: _No homework yet_
 
 + **Lesson 2:  Development Environment, Variables and Operators**
-  > Discuss the language we are going to be learning
+  > Review important items from 1st class
   + Python3
-  + Indentation 
+  + Algorithms
   + Structure of a program
   
   > Discuss and demonstrate the tools we are going to use:
@@ -50,37 +50,66 @@
   + Email
 
   > Discuss the use and importance of variables.  
-
   + Types of variables
     + float
     + int
+    + complex
     + string
-    + object
-  + Naming variables
-  + Reserved words
+    + boolean
+  > Naming variables
+    + Naming variables
+      + Case
+      + Reserved words
   + Operators
-    + addition
-    + subtraction
-    + multiplication
-    + exponentiation
-    + modulo
-  + Scope of variables
-  + Converting between types
-  + Output of variables
+    + Arithmetic operators
+      + addition
+      + subtraction
+      + multiplication
+      + exponentiation
+      + modulo (remainder)
+      + integer division    
+    + Comparison operators
+      + greater than
+      + less than
+      + not equal to
+    + Logical operators
+      + not
+      + and 
+      + or
+    + Identity Operators
+      + is 
+      + is not
+    + Operator precedence
+  + Built-in Functions
+    > Discuss the concept of a function
+    + Type Identification
+      + type()
+    + Math Functions
+      + abs()
+      + divmod()
+      + pow()
+    + Converting between types
+      + bin()
+      + bool()
+      + float()
+      + int()
+      + str()
 
-  > **In Class**: Launch a Jupyter Notebook and write a **_"Hello World"_** program.  Use python as a calculator.  Get comfortable with the Jupyter Notebook.  Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Also execute the inverse operation on the function and make sure your answer makes sense.  Use markdown cells in your notebook and add your name and date in it.
+  > **In Class**: Login to our JupyterHub. In the Lesson2 folder find the InClass notebook.  Once you open it run through the UI demo.  This will allow you to get comfortable with the Jupyter Notebook.  Follow the instructions.  In this notebook you will write your first python program, **_"Hello World"_**.  You will Use python as a calculator.   Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Also execute the inverse operation on the function and make sure your answer makes sense.  Use markdown cells in your notebook and add your name and date in it.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  You will also write code that will calculate the area, volume, circumference and perimeter of various geometric objects. Follow the instructions in the notebook.
 
 
 + **Lesson 3: Data Structures**
   > Discuss built in data structures  
-  + List
-  + Dictionary
-  + Tuples
+  + Fundamental data structures
+    + List
+    + Dictionary
+    + Tuples
   > Discuss ways to add data to a data structure
   > Discuss the way to access data in a data structure
   + Indexing
+
 
   > **In Class**: Given a set of data populate the data into various data structures.  Exercise different methods on these data structures and print information about them.  
 
@@ -101,6 +130,8 @@
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned in the last two lessons. Follow the instructions in the notebook.
 
 + **Lesson 5:  Looping and Conditional Statements**
+  > Discuss indentation
+  + Scope of variables
   > Discuss the various looping constructs
   + Boolean statements
   + _for_ loops
