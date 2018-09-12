@@ -95,21 +95,31 @@
       + int()
       + str()
 
-  > **In Class**: Login to our JupyterHub. In the Lesson2 folder find the InClass notebook.  Once you open it run through the UI demo.  This will allow you to get comfortable with the Jupyter Notebook.  Follow the instructions.  In this notebook you will write your first python program, **_"Hello World"_**.  You will Use python as a calculator.   Given the code to generate random numbers, run through all the mathematical operations on these numbers.  Also execute the inverse operation on the function and make sure your answer makes sense.  Use markdown cells in your notebook and add your name and date in it.
+  > **In Class**: Login to our JupyterHub. In the ClassMaterial->Lesson2 folder find the VariablesAndOperators_InClass notebook.  This copy of the notebook is READ-ONLY, you cannot modify it.  You have to make a copy of the notebook in your personal JupyterHub area.  Once you open it run through the in class exercises.  These exercises will allow you to get comfortable with the Jupyter Notebook.  In this notebook you will write your first python program, **_"Hello World"_**.  You will Use python as a calculator.   Given the code to generate random numbers, write your first basic algorithm.  Use markdown cells in your notebook and add your name and other information in it.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson2Homework".  This is a homework where you can practice using the python notebook as a calculator.  You will write code that exercises the _**Pythagorean Theorem**_.  You will also write code that will calculate the area, volume, circumference and perimeter of various geometric objects. Follow the instructions in the notebook.
+  > **Homework**: This homework is due at the beginning of the next class.  Login to our JupyterHub.  In the ClassMaterial->Lesson2 folder find the VariablesAndOperators_Homework notebook.  This copy of the notebook is READ-ONLY, you cannot modify it.  You have to make a copy of this notebook in your personal JupyterHub.  Save this file in your JupyterHub area under Homework->Lesson2.  I will collect it from there.  This is a homework where you can practice using the python notebook as a calculator as well as start understanding how a programming language can be used to solve analytical problems.  You will write code that exercises the _**Pythagorean Theorem**_.  You will also write code that will calculate common measures of geometric shapes. Follow the instructions in the notebook.
 
 
 + **Lesson 3: Data Structures**
+  > Discuss what is a data structure
+    + What are they?
+    + Why do we need them?
+    + How are they used?
   > Discuss built in data structures  
-  + Fundamental data structures
-    + List
-    + Dictionary
-    + Tuples
-  > Discuss ways to add data to a data structure
-  > Discuss the way to access data in a data structure
-  + Indexing
-
+    + Fundamental data structures
+      + List
+      + Dictionary
+      + Tuples
+    + What can data structures contain?
+    + What data structures are ordered vs unordered
+    + Getting characteristics about data structures
+      + length
+      + min
+      + max
+    + Adding data to a data structure
+    + Retrieving data from a data structure
+      + Indexing
+      + Slicing
 
   > **In Class**: Given a set of data populate the data into various data structures.  Exercise different methods on these data structures and print information about them.  
 
