@@ -53,12 +53,10 @@
   + Types of variables
     + float
     + int
-    + complex
     + string
     + boolean
   > Naming variables
     + Naming variables
-      + Case
       + Reserved words
   + Operators
     + Arithmetic operators
@@ -99,8 +97,16 @@
 
   > **Homework**: This homework is due at the beginning of the next class.  Login to our JupyterHub.  In the ClassMaterial->Lesson2 folder find the VariablesAndOperators_Homework notebook.  This copy of the notebook is READ-ONLY, you cannot modify it.  You have to make a copy of this notebook in your personal JupyterHub.  Save this file in your JupyterHub area under Homework->Lesson2.  I will collect it from there.  This is a homework where you can practice using the python notebook as a calculator as well as start understanding how a programming language can be used to solve analytical problems.  You will write code that exercises the _**Pythagorean Theorem**_.  You will also write code that will calculate common measures of geometric shapes. Follow the instructions in the notebook.
 
++ **Lesson 3: Operators and Variables Lab**
+  > Spend entire lesson working on:
+    + Development environment familiarization
+    + Data types
+    + Variables
+    + Operators
+    + In class exercises
+    + Homework review
 
-+ **Lesson 3: Data Structures**
++ **Lesson 4: Data Structures**
   > Discuss what is a data structure
     + What are they?
     + Why do we need them?
@@ -108,8 +114,12 @@
   > Discuss built in data structures  
     + Fundamental data structures
       + List
+        + values
       + Dictionary
+        + keys
+        + values
       + Tuples
+        + values
     + What can data structures contain?
     + What data structures are ordered vs unordered
     + Getting characteristics about data structures
@@ -117,6 +127,7 @@
       + min
       + max
     + Adding data to a data structure
+    + Searching for values in a data structure
     + Retrieving data from a data structure
       + Indexing
       + Slicing
@@ -125,21 +136,15 @@
 
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned today. Follow the instructions in the notebook.
   
-+ **Lesson 4: More Data Structures**
-  > Discuss built in and more complex data structures
-  + Set
-  + Class
-  + Queue
-  + Stack
-  > Discuss ways to add data to a data structure
-  > Discuss the way to access data in a data structure
-  + Slices
-
-  > **In Class**: Given various data structures, load data and manipulate the structures.  Answer questions about indexing and slicing
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned in the last two lessons. Follow the instructions in the notebook.
-
-+ **Lesson 5:  Looping and Conditional Statements**
++ **Lesson 5: Data Structures Lab**
+  > Spend entire lesson working on:
+    + Creating data structures
+    + Populating data structures
+    + Operations on data structures
+    + In class exercises
+    + Homework review
+    
++ **Lesson 6:  Looping and Conditional Statements**
   > Discuss indentation
   + Scope of variables
   > Discuss the various looping constructs
@@ -162,7 +167,14 @@
   + Median score
   + Mean (average) score
 
-+ **Lesson 6:  Functions and Packages**
++ **Lesson 7:  Looping and Conditional Statements Lab**
+  > Spend entire lesson working on:
+    + Looping constructs
+    + Conditional statements
+    + In class exercises
+    + Homework review
+
++ **Lesson 8:  Functions and Packages**
   > Describe reusable code
   + What is a function?
   + Why do we need functions?
@@ -171,7 +183,9 @@
   > Take reusability up a level, introduce packages
     + What is a package?
     + Why do we need packages?
+    + Discuss concept of namespace
     + Discuss fundamental packages
+      + datetime
       + sys
       + env
       + math
@@ -181,68 +195,40 @@
 
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Read a file of data, for every keyword in the file accumulate statistics.  Store those statistics in data structures and report them as output.  Follow the instructions in the notebook.
 
-+ **Lesson 7:  Handling Exceptions**
-  > What happens if an error happens?  Discuss graceful exit versus ungraceful handling of error.
-  
-  + Describe situations where errors may occur?
-  + Demonstrate programs with exceptions and programs without.
-  + Describe the exception mechanism.
-  + Describe the various types of exceptions.
-  
-  > **In Class**: Given a list of data, write a program that performs various mathematical manipulations on that data.  Your program has to handle missing or incorrect data gracefully.
++ **Lesson 9: Functions and Packages Lab**
+  > Spend entire lesson working on:
+    + Function creation
+    + Function calling constructs
+    + Program structure
+    + Package familiarization
+    + In class exercises
+    + Homework review
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  In this homework you will create a program that loads a series of numbers and encounters various error situations.  The program is to output the correct error message for each type of error.  Follow the instructions in the notebook.
-
-+ **Lesson 8: Built In Packages**
-  > Describe and demonstrate functionality in well known packages.
-  + numpy
-  + scipy
-  + pandas
-  + scikit-learn
-  + beautifulsoup
-  + matplotlib
-
-  > **In Class**: We will be graphing various mathematical functions across a range of values.  In this class we will discuss _**Cartesian Coordinates**_. Visualizing these functions gives unmeasured insight.
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
-
-+ **Lesson 9:  Data**
-  > Discuss why data is necessary for computing.
-  + Why is data important?
-  + How do we measure data?
-  + What kind of data is there?
-  + Where do we get the data?
-
-  > **In Class**: Given a URL, download a webpage and do a statistical analysis on the words in the page.  In this exercise we will learn how to download data from the internet and then analyse it.
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson9Homework".  Given a time series of stock prices for different dates, figure out how much money a stock position has made or lost each day assuming a number of shares bought on a specific date.  Follow the instructions in the notebook.
-
-+ **Lesson 10: Graphics**
++ **Lesson 10: Graphing**
   > Create visual objects using the python graphic system.
-  + Seaborn
-  + Plotly
+  + matplotlib
+  + seaborn
+  + plotly
 
   > Discuss different types of graphs
    + line graphs
    + scatter plots
    + bar charts
 
-  > **In Class**: Create various graphical user interfaces that the user can interact with and trigger functions.
+  > **In Class**: We will be graphing various mathematical functions across a range of values.  In this class we will discuss _**Cartesian Coordinates**_. Visualizing these functions gives unmeasured insight.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".  In this homework we will create a graphic that will plot a time series of stock prices.  Follow the instructions in the notebook.
-
-+ **Lesson 11:  Introduction to Object Oriented Programming**
-  > Descibe fundamental benefits of object oriented programming
-  + Details about the class object
-    + Constructor
-    + Member Functions
-    + Virtual Functions
-    + Static Functions
-
-  > **In Class**: We will create a hierarchy that represents employees at a company.  Give these employees various attributes and observe how the virtual function mechanism works.
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".  In this homework we will create an object model of our classroom.  The students and the classroom will modeled. Follow the instructions in the notebook.
-
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
+  
++ **Lesson 11: Graphing Lab / Final Project Design**
+  > Spend 1/2 the lesson working on:
+    + Graphing exercises
+    + Create graphs of different types
+    + Customize graphs created
+    + In class exercises
+  > Discuss the design of the final project
+    + Generate an algorithm we are going to implement
+    + Discuss the parts of the algortihm that will be provided
+    + Discuss the parts of the project that the students will be responsible for.
 + **Lesson 12: Final Project - In Class**
   > Review the course and discuss final course project.  Project will be done in class.
 
