@@ -103,38 +103,37 @@
     + Data types
     + Variables
     + Operators
-    + In class exercises
-    + Homework review
+  > **In Class**: There will be various in-class assignments that we will go over.  In addition to the programming exercises from the _Operators and Variables_ class we will also complete a worksheet where the questions and test the student's understanding of the theoretical material we went over.
+  > **Homework**:  This homework is due at the beginning of the next class and should be completed online.  The student will login to the Jupyter Hub and load the homework assignment under Lesson3.  Completion of this homework will solidify the understanding of the _Operators and Variables_ lesson.
 
 + **Lesson 4: Data Structures**
-  > Discuss what is a data structure
-    + What are they?
-    + Why do we need them?
-    + How are they used?
-  > Discuss built in data structures  
-    + Fundamental data structures
-      + List
-        + values
-      + Dictionary
-        + keys
-        + values
-      + Tuples
-        + values
-    + What can data structures contain?
-    + What data structures are ordered vs unordered
-    + Getting characteristics about data structures
-      + length
-      + min
-      + max
-    + Adding data to a data structure
-    + Searching for values in a data structure
-    + Retrieving data from a data structure
-      + Indexing
-      + Slicing
+  > What is a data structure?
+  + Why do we need them?
+  + How are they used?
+  > Discuss fundamental data structures
+  + List
+  + Dictionary
+  + Tuple
+  + Set
+  > What can data structures contain?
+  + What data structures are ordered vs unordered
+  + Getting characteristics about data structures
+    + length
+    + min/max
+    + keys/values
+  + Operations on data structures
+    + sum
+    + sort
+    + concatenate
+  + Adding data to a data structure
+  + Searching for values in a data structure
+  + Retrieving data from a data structure
+    + Indexing
+    + Slicing
 
-  > **In Class**: Given a set of data populate the data into various data structures.  Exercise different methods on these data structures and print information about them.  
+  > **In Class**: Various exercises that will give the student a comfort level with data structures.  In these exercises the student will create,  populate, search, access, and generate other information about the data structure. 
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".  This is a homework where you can practice data structure manipulation.  You will write code that creates and manipulates all the data structures you learned today. Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  In this homework you will be introduced to the _Fibonacci_ numbers.  Follow the instructions in the notebook.
   
 + **Lesson 5: Data Structures Lab**
   > Spend entire lesson working on:
