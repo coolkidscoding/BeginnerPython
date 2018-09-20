@@ -10,10 +10,10 @@
 | Yoon      | Maddie     |  _myoon_ | 005 | IP001 |
 | Wallace | Nolan       |  _nwallace_ | 006 | IP001 |
 | Hamilton | Skye       |  _shamilton_ | 007 | IP001 |
-| Jokela | William  | _wjokela_ | 008 | IP001  |
+| Jokela | William  | _wjokela_ | 008 | *DROP*  |
 | Taylor | Maxwell  | _mtaylor_ | 009 | IP001  |
 | Yoon | Maya  | _mayoon_ | 016 | IP001  |
-| Conti | Nico  | _mconti_ | 019 | IP001  |
+| Conti | Nico  | _mconti_ | 019 | *DROP*  |
 | Jebaily | Catherine  | _cjebaily_ | 017 | IP001  |
 | Bilerman | Noah  | _nbilerman_ | 018 | IP001  |
 | Conti | Nico  | _nconti_ | 019 | IP001  |
@@ -25,4 +25,4 @@
 | Bergstahler | Elizabeth  | _ebergstahler_ | 015 |IP003  |
 
 ---
-##### _Registration is now closed for these sessions.  New classes will be added in October 2018_ #####
+##### Registration is now closed for these sessions.  New classes will be added in October 2018_ #####
