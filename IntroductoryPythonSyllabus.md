@@ -107,33 +107,22 @@
   > **Homework**:  This homework is due at the beginning of the next class and should be completed online.  The student will login to the Jupyter Hub and load the homework assignment under Lesson3.  Completion of this homework will solidify the understanding of the _Operators and Variables_ lesson.
 
 + **Lesson 4: Data Structures**
-  > What is a data structure?
-  + Why do we need them?
-  + How are they used?
-  > Discuss fundamental data structures
+  > What is the motivation behind data structures?
+  + Discuss what a data structure is.
+  > Discuss different types of data structures
   + List
   + Dictionary
   + Tuple
   + Set
-  > What can data structures contain?
-  + What data structures are ordered vs unordered
-  + Getting characteristics about data structures
-    + length
-    + min/max
-    + keys/values
-  + Operations on data structures
-    + sum
-    + sort
-    + concatenate
-  + Adding data to a data structure
-  + Searching for values in a data structure
-  + Retrieving data from a data structure
-    + Indexing
-    + Slicing
+  > Discuss creation of data structures
+  > Discuss adding elements to data structures
+  > Discuss access to elements
+    + indexing
+    + slicing
 
   > **In Class**: Various exercises that will give the student a comfort level with data structures.  In these exercises the student will create,  populate, search, access, and generate other information about the data structure. 
 
-  > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  In this homework you will be introduced to the _Fibonacci_ numbers.  Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  In this homework you will be introduced to the _Set Theory_.  You will learn about Venn diagrams and get an understanding for set operations like union, intersection, subset, etc.  Follow the instructions in the notebook.
   
 + **Lesson 5: Data Structures Lab**
   > Spend entire lesson working on:
