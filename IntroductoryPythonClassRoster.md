@@ -16,13 +16,12 @@
 | Conti | Nico  | _mconti_ | 019 | *DROP*  |
 | Jebaily | Catherine  | _cjebaily_ | 017 | IP001  |
 | Bilerman | Noah  | _nbilerman_ | 018 | IP001  |
-| Conti | Nico  | _nconti_ | 019 | IP001  |
 | Zwirn     | James      |  _jzwirn_ | 010 | IP002 |
 | Prabhu    | Ram        |  _rprabhu_ | 011 | IP002 |
 | Chia | Nico  | _nchia_ | 012 | IP002  |
 | Amarasinghe | Ellan  | _emarasinghe_ | 013 | IP003  |
 | Urias | Betsy  | _burias_ | 014 | IP003  |
 | Bergstahler | Elizabeth  | _ebergstahler_ | 015 |IP003  |
-
+| Divya | Agarwal  | _dagarwal_ | 020 | IP003  |
 ---
-##### Registration is now closed for these sessions.  New classes will be added in October 2018_ #####
+##### _Registration is now closed for these sessions.  New classes will be added in October 2018_ <br> <center>Updated September 30, 2018
