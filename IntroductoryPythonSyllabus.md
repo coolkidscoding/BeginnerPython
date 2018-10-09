@@ -116,9 +116,10 @@
   + Set
   > Discuss creation of data structures
   > Discuss adding elements to data structures
-  > Discuss access to elements
+  > Discuss accessing elements in data structures
     + indexing
     + slicing
+  > Discuss searching for elements in data structures
 
   > **In Class**: Various exercises that will give the student a comfort level with data structures.  In these exercises the student will create,  populate, search, access, and generate other information about the data structure. 
 
@@ -133,13 +134,13 @@
     + Homework review
     
 + **Lesson 6:  Looping and Conditional Statements**
-  > Discuss indentation
-  + Scope of variables
+  > Discuss code blocks and indentation
   > Discuss the various looping constructs
-  + Boolean statements
   + _for_ loops
   + _while_ loops
+  > Discuss how to break out of loops early
   + _break_ statements
+  > Discuss how to ignore elements in a loop
   + _continue_ statements
 
   > Discuss flow of control and conditional statements
@@ -147,20 +148,18 @@
   + _elif_
   + _else_
 
-  > **In Class**: Various exercises using looping and flow of control.  Use loops to calculate the _**Fibonacci**_ sequence to the nth value.
+  > **In Class**: Various exercises using looping and flow of control.  
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson5Homework".  Given various data structures with labels and values, calculate the following on this data:
-  + Highest score
-  + Lowest score
-  + Median score
-  + Mean (average) score
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping and flow control.  
 
-+ **Lesson 7:  Looping and Conditional Statements Lab**
-  > Spend entire lesson working on:
++ **Lesson 7:  Looping and Conditional Statements Lab** 
+>  Spend entire lesson working on:
     + Looping constructs
     + Conditional statements
     + In class exercises
     + Homework review
+
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  Various exercises to reinforce the concepts of looping and flow control.  Among them are to generate the _Fibonacci_ Sequence.  Also generate all the primes up to a certain value using the _Sieve of Eratosthenes_.
 
 + **Lesson 8:  Functions and Packages**
   > Describe reusable code
