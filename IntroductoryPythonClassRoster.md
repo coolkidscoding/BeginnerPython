@@ -23,5 +23,6 @@
 | Urias | Betsy  | _burias_ | 014 | IP003  |
 | Bergstahler | Elizabeth  | _ebergstahler_ | 015 |IP003  |
 | Divya | Agarwal  | _dagarwal_ | 020 | IP003  |
+| Ava | Scruggs  | _ascruggs_ | 021 | IP003  |
 ---
-##### _Registration is now closed for these sessions.  New classes will be added in October 2018_ <br> <center>Updated September 30, 2018
+##### _Registration is now closed for these sessions.  New classes will be added in October 2018_ <br> <center>Updated October 11, 2018
