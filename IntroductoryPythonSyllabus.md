@@ -169,7 +169,7 @@
 
   > **In Class**: Use the help system to identify functions available in various packages.  Write a program that simulates the roll of a die.  Count the number of times each number comes up.  This will give you a distribution of a random number.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Read a file of data, for every keyword in the file accumulate statistics.  Store those statistics in data structures and report them as output.  Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub and open the notebook  for Lesson08 Homework.  Follow the instructions in the notebook.
 
 + **Lesson 9: Functions Lab**
   > Spend entire lesson working on:
