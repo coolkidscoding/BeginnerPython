@@ -183,6 +183,7 @@
 
 + **Lesson 10: Graphing**
   > Create visual objects using the python graphic system.
+  + turtle
   + matplotlib
   + seaborn
   + plotly
@@ -206,6 +207,7 @@
     + Generate an algorithm we are going to implement
     + Discuss the parts of the algortihm that will be provided
     + Discuss the parts of the project that the students will be responsible for.
+
 + **Lesson 12: Final Project - In Class**
   > Review the course and discuss final course project.  Project will be done in class.
 
