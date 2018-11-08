@@ -197,21 +197,23 @@
 
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
   
-+ **Lesson 11: Graphing Lab / Final Project Design**
++ **Lesson 11: Graphing Lab / Final Review**
   > Spend 1/2 the lesson working on:
     + Graphing exercises
     + Create graphs of different types
     + Customize graphs created
     + In class exercises
-  > Discuss the design of the final project
-    + Generate an algorithm we are going to implement
-    + Discuss the parts of the algortihm that will be provided
-    + Discuss the parts of the project that the students will be responsible for.
+  > Discuss everything we have learned 
+    + Variables and Operators
+    + Data Structures
+    + Loops and Conditionals
+    + Functions and Packages
+    + Graphing
 
-+ **Lesson 12: Final Project - In Class**
-  > Review the course and discuss final course project.  Project will be done in class.
++ **Lesson 12: Final Review**
+  > Review the course and discuss what we have learned.
 
-  > **In Class**: _**We will create a stock trading system**_.  Each student will invest a simulated amount of cash into a portfolio of stocks.  We will use all we have learned in the course to put this together cooperatively.
+  > **In Class**: _**We will practice everything we have learned throughout the course**_.  
 
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
