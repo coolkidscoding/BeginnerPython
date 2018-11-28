@@ -195,26 +195,20 @@
 
   > **In Class**: We will be graphing various mathematical functions across a range of values.  In this class we will discuss _**Cartesian Coordinates**_. Visualizing these functions gives unmeasured insight.
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
   
-+ **Lesson 11: Graphing Lab / Final Review**
-  > Spend 1/2 the lesson working on:
-    + Graphing exercises
-    + Create graphs of different types
-    + Customize graphs created
-    + In class exercises
-  > Discuss everything we have learned 
++ **Lesson 11: Final Review**
+  > Spend the lesson working course review:
     + Variables and Operators
     + Data Structures
     + Loops and Conditionals
     + Functions and Packages
-    + Graphing
 
-+ **Lesson 12: Final Review**
-  > Review the course and discuss what we have learned.
+    > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".  In this homework you will review everything we have learned so far in this course.
 
-  > **In Class**: _**We will practice everything we have learned throughout the course**_.  
-
++ **Lesson 12: Final Test**
+  > Review the homework and distribute an in class test.
+  
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
 
