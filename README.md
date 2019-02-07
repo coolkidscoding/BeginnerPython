@@ -1,5 +1,5 @@
-# Problem Solving with Python Course Description
-## <center>The <br>__Problem Solving with Programming__ <br>course offered at <br><center>[Cool Kids Coding School](http://www.coolkidscodingschool.com)
+# Introductory Python Course Description
+## <center>The <br>__Introductory Python__ <br>course offered at <br><center>[Cool Kids Coding School](http://www.coolkidscodingschool.com)
 
 ## Description
 > Programming is quickly becoming a ubiquitous requirement in a persons academic and professional life.  In this course the student will continue the introductory course with a course focused on problem solving using the python programming language.  
