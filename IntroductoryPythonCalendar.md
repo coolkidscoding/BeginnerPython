@@ -1,6 +1,6 @@
 # <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Introductory Python**<br>  Winter 2019
 ---
-> **Class Code: IP1901 (Thursdays)**
+> **Class Code: IP1901 (Thursday/Friday)**
 + Class #1
   + February 7th
 + Class #2
@@ -12,16 +12,16 @@
 + Class #5
   + March 14th
 + Class #6
-  + March 21st
+  + April 5th
 + Class #7
-  + March 28th
+  + April 12th
 + Class #8
-  + April 4st
+  + April 26th
 + Class #9
-  + April 11th
+  + May 3rd
 + Class #10
-  + April 18th
+  + May 10th
 + Class #11
-  + April 25nd
+  + May 17th
 + Class #12
-  + May 2nd
+  + May 24th
