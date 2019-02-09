@@ -24,4 +24,4 @@
 + Class #11
   + May 17th
 + Class #12
-  + May 24th
+  + May 31st
