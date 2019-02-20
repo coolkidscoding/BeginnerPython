@@ -108,7 +108,7 @@
 
   > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  Follow the instructions in the notebook.
     
-+ **Lesson 6:  Looping Statements**
++ **Lesson 6:  Loop Statements**
   > Discuss code blocks and indentation
   + what does it mean to be in a code block
   > Discuss the various looping constructs
