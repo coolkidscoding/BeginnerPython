@@ -25,7 +25,7 @@
 + Class #8 (**Functions**)
   + April 26th
   + 150 West 79th Street #5A (b/t Amsterdam & Columbus) 
-+ Class #9 (**Packages**)
++ Class #9 (??)
   + May 3rd
   + 601 W113th Street, apt 5A (entrance just off Broadway)
 + Class #10 (**Graphing**)
