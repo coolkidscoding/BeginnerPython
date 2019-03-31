@@ -28,10 +28,10 @@
 + Class #9 (**Loops Workshop**)
   + May 3rd
   + 601 W113th Street, apt 5A (entrance just off Broadway)
-+ Class #10 (**Conditionals**)
++ Class #10 (**Conditionals and Functions**)
   + May 10th
   + 150 West 79th Street #5A (b/t Amsterdam & Columbus) 
-+ Class #11 (**Conditionals Workshop**)
++ Class #11 (**Conditionals and Functions Workshop**)
   + May 17th
 + Class #12 (**Review**)
   + May 31st
