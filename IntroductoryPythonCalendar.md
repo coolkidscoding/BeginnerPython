@@ -33,5 +33,42 @@
   + 150 West 79th Street #5A (b/t Amsterdam & Columbus) 
 + Class #11 (**Conditionals and Functions Workshop**)
   + May 17th
-+ Class #12 (**Review**)
++ Class #12 (**Review & Final Project**)
+  + May 31st
+> **Class Code: IP1902 (Saturday)**
++ Class #1 (**Background and Development Environment**)
+  + April 13th
+  + 823 Park Ave #3
++ Class #2 (**Variables and Operators Part 1**)
+  + April 27th
+  + 823 Park Ave #3
++ Class #3 (**Variables and Operators Part 2**)
+  + May 4th
+  + 823 Park Ave #3
++ Class #4 (**Data Structures Part 1**)
+  + May 11th
+  + 823 Park Ave #3
++ Class #5 (**Data Structures Part 2**)
+  + May 18th
+  + 823 Park Ave #3
++ Class #6 (**Loops**)
+  + June 1st
+  + 823 Park Ave #3
++ Class #7 (**Conditionals**)
+  + June 8th
+  + 823 Park Ave #3
++ Class #8 (**Loops & Conditionals Workshop**)
+  + TBD
+  + 823 Park Ave #3
++ Class #9 (**Functions**)
+  + TBD
+  + 823 Park Ave #3
++ Class #10 (**Functions Workshop**)
+  + TBD
+  + 823 Park Ave #3
++ Class #11 (**Packages**)
+  + TBD
+  + 823 Park Ave #3
++ Class #12 (**Review & Final Project**)
+  + TBD
   + May 31st

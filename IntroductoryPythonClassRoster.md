@@ -7,5 +7,7 @@
 | Santos-Shin | Lucas |  _lsantos_ | 023| IP1901 |
 | Almeraz | Hayden |  _halmeraz_ | 024 | IP1901 |
 | Almeraz | Bailey |  _balmeraz_ | 025 | IP1901 |
+| Salvatore | Alex |  _asalvatore_ | 026 | IP1902 |
+| Hayden | Finn |  _fhayden_ | 027 | IP1902 |
 ---
-##### Registration for this session is closed.  <br> <center>Updated February 5th, 2019
+##### Registration for this session is closed.  <br> <center>Updated April 11th, 2019
