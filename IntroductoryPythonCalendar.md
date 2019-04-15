@@ -40,7 +40,7 @@
   + April 13th
   + 823 Park Ave #3
 + Class #2 (**Variables and Operators Part 1**)
-  + April 27th
+  + April 25th
   + 823 Park Ave #3
 + Class #3 (**Variables and Operators Part 2**)
   + May 4th
