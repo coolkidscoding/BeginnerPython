@@ -28,10 +28,10 @@
 + Class #9 (**Loops Part2**)
   + May 3rd
   + 601 W113th Street, apt 5A (entrance just off Broadway)
-+ Class #10 (**Conditionals and Functions Part1**)
++ Class #10 (**Conditionals**)
   + May 10th
   + 150 West 79th Street #5A (b/t Amsterdam & Columbus) 
-+ Class #11 (**Conditionals and Functions Part2**)
++ Class #11 (**Functions**)
   + May 17th
 + Class #12 (**Review & Final Project**)
   + May 31st
