@@ -49,19 +49,19 @@
   + May 5th
   + 823 Park Ave #3
 + Class #5 (**Data Structures Part 2**)
-  + May 18th
+  + May 11th
   + 823 Park Ave #3
 + Class #6 (**Loops**)
-  + June 1st
+  + May 18th
   + 823 Park Ave #3
 + Class #7 (**Conditionals**)
+  + May 25th
+  + 823 Park Ave #3
++ Class #8 (**Functions**)
+  + June 1st
+  + 823 Park Ave #3
++ Class #9 (**Pre-Summer Review**)
   + June 8th
-  + 823 Park Ave #3
-+ Class #8 (**Loops & Conditionals Workshop**)
-  + TBD
-  + 823 Park Ave #3
-+ Class #9 (**Functions**)
-  + TBD
   + 823 Park Ave #3
 + Class #10 (**Functions Workshop**)
   + TBD
