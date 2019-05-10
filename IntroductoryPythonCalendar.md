@@ -47,7 +47,7 @@
   + 823 Park Ave #3
 + Class #4 (**Data Structures Part 1**)
   + May 5th
-  + 823 Park Ave #3
+  + CPW
 + Class #5 (**Data Structures Part 2**)
   + May 11th
   + 823 Park Ave #3
@@ -65,10 +65,7 @@
   + 823 Park Ave #3
 + Class #10 (**Functions Workshop**)
   + TBD
-  + 823 Park Ave #3
 + Class #11 (**Packages**)
   + TBD
-  + 823 Park Ave #3
 + Class #12 (**Review & Final Project**)
   + TBD
-  + May 31st
