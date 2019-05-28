@@ -55,10 +55,10 @@
   + May 18th
   + 823 Park Ave #3
 + Class #7 (**Loops Pt2**)
-  + May 25th
+  + JUne 1st
   + 823 Park Ave #3
 + Class #8 (**Conditionals**)
-  + June 1st
+  + June 2nd
   + 823 Park Ave #3
 + Class #9 (**Functions**)
   + June 8th
