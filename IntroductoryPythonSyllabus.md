@@ -1,9 +1,8 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Introductory Python**<br>  Winter 2019
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Introductory Python**<br>  Spring 2019
 ---
 + **Lesson 1:  Background and Introduction to Development Environment**
   > Discuss some of the concepts behind computer science and programming.  Familiarize the class with software and hardware terms.  
   + What are programs and programming languages?
-  + How big and complicated do programs get?
   + How does a computer use a program?  
   + What language does a computer speak?
   + What are we going to learn in this course?  
@@ -63,7 +62,7 @@
 
   > **Homework**: Login to JupyterHub.  In the InClassAndHomework->Lesson2 folder find the VariablesAndOperators_Homework notebook.  This is a homework where you can start understanding how a programming language can be used to solve analytical problems.  
 
-+ **Lesson 3: Operators and Variables (Part2)**
++ **Lesson 3: Variables and Operators (Part2)**
   > Spend entire lesson working on:
   + Data types
   + Variables
@@ -107,8 +106,13 @@
   > **In Class**: Various exercises that will give the student a comfort level with data structures.  In these exercises the student will create,  populate, search, access, and generate other information about the data structure. 
 
   > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  Follow the instructions in the notebook.
-    
-+ **Lesson 6:  Loop Statements**
+
++ **Lesson 6:  Consolidate**
+  > No new material to be delivered.  Practice everything we have learned so far.
+  > **In Class**: Various exercises.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  Various exercises to reinforce the concepts we have learned.  
+
++ **Lesson 7:  Loop Statements**
   > Discuss code blocks and indentation
   + what does it mean to be in a code block
   > Discuss the various looping constructs
@@ -119,27 +123,27 @@
   > Discuss how to ignore elements in a loop
   + _continue_ statements
   > **In Class**: Various exercises using looping.  
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping.  
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  Various exercises to reinforce the concepts of looping.  
 
-+ **Lesson 7:  Conditional Statements** 
++ **Lesson 8:  Conditional Statements** 
 > Discuss flow of control and conditional statements
 + _if_ statements
 + _elif_
 + _else_
 > **In Class**: Various exercises using conditional statements.  
 
-> **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  Various exercises to reinforce the concepts of looping and flow control.
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  Various exercises to reinforce the concepts of looping and flow control.
 
-+ **Lesson 8:  Functions**
++ **Lesson 9:  Functions**
   > Describe reusable code
   + What is a function?
   + Why do we need functions?
   + What can we do with functions?
 
   > **In Class**: Various exercises creating functions.  
-  > **Homework**: Login to JupyterHub and open the notebook  for Lesson08 Homework.  Follow the instructions in the notebook.
+  > **Homework**: Login to JupyterHub and open the notebook  for Lesson9Homework.  Follow the instructions in the notebook.
 
-+ **Lesson 9: Packages**
++ **Lesson 10: Packages**
   > Describe and review some popular packages:
     + random
     + requests
@@ -147,34 +151,16 @@
     + In class exercises
     + Homework review
 
-> **Homework**: Login to JupyterHub and open the notebook for Lesson09 Homework.  Follow the instructions in the notebook.
-+ **Lesson 10: Graphing**
-  > Create visual objects using the python graphic system.
-  + turtle
-  + matplotlib
-  + seaborn
-  + plotly
+> **Homework**: Login to JupyterHub and open the notebook for Lesson10Homework.  Follow the instructions in the notebook.
 
-  > Discuss different types of graphs
-   + line graphs
-   + scatter plots
-   + bar charts
-
-  > **In Class**: We will be graphing various mathematical functions across a range of values.  Visualizing these functions gives unmeasured insight.
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".  In this homework you will be given a set of _**trigonometric**_ functions (_**sin**_, _**cos**_, _**tan**_) and a range of inputs, plot the functions.  Follow the instructions in the notebook.
++ **Lesson 11: Review (Part 1)**
+  > Review everything we have learned so far.  
   
-+ **Lesson 11: Final Review**
-  > Spend the lesson working course review:
-  + Variables and Operators
-  + Data Structures
-  + Loops and Conditionals
-  + Functions and Packages
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".  In this homework you will review everything we have learned so far in this course.
-
-+ **Lesson 12: Final Test**
-  > Review the homework and distribute an in class test.
+  > **In Class**: Various in class exercises to to reinforce what we have learned in class so far.
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".  
+  
++ **Lesson 12: Review (Part 2)**
+  > Review everything we have learned so far.
   
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
-
-  
