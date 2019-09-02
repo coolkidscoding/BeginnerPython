@@ -1,4 +1,4 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Introductory Python**<br>  Spring 2019
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Introductory Python**<br>  Fall 2019
 ---
 + **Lesson 1:  Background and Introduction to Development Environment**
   > Discuss some of the concepts behind computer science and programming.  Familiarize the class with software and hardware terms.  
@@ -107,16 +107,16 @@
 
   > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson4 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.  Follow the instructions in the notebook.
 
-+ **Lesson 6:  Consolidate**
-  > No new material to be delivered.  Practice everything we have learned so far.
-  > **In Class**: Various exercises.
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".  Various exercises to reinforce the concepts we have learned.  
-
-+ **Lesson 7:  Loop Statements**
++ **Lesson 6:  Loop Statements (Part1)**
   > Discuss code blocks and indentation
   + what does it mean to be in a code block
   > Discuss the various looping constructs
   + _for_ loops
+  > **In Class**: Various exercises using looping.  
+  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping.  
+
++ **Lesson 7:  Loop Statements (Part2)**
+  > Discuss the various looping constructs
   + _while_ loops
   > Discuss how to break out of loops early
   + _break_ statements
@@ -134,7 +134,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".  Various exercises to reinforce the concepts of looping and flow control.
 
-+ **Lesson 9:  Functions**
++ **Lesson 9:  Functions and Packages**
   > Describe reusable code
   + What is a function?
   + Why do we need functions?
@@ -143,24 +143,25 @@
   > **In Class**: Various exercises creating functions.  
   > **Homework**: Login to JupyterHub and open the notebook  for Lesson9Homework.  Follow the instructions in the notebook.
 
-+ **Lesson 10: Packages**
-  > Describe and review some popular packages:
-    + random
-    + requests
-    + Beautiful Soup
-    + In class exercises
-    + Homework review
++ **Lesson 10: Review (Part1)**
+  > Review the material we have covered so far in preparation for the final exam.
+    + variables and operators
+    + data structures
 
 > **Homework**: Login to JupyterHub and open the notebook for Lesson10Homework.  Follow the instructions in the notebook.
 
-+ **Lesson 11: Review (Part 1)**
-  > Review everything we have learned so far.  
++ **Lesson 11: Review (Part2)**
+  > Review the material we have covered so far in preparation for the final exam.
+    + loops and conditionals
+    + functions and packages
+
+> **Homework**: Login to JupyterHub and open the notebook for Lesson11Homework.  Follow the instructions in the notebook.
   
   > **In Class**: Various in class exercises to to reinforce what we have learned in class so far.
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".  
   
-+ **Lesson 12: Review (Part 2)**
-  > Review everything we have learned so far.
++ **Lesson 12: Final Exam**
+  > A short exam to reinforce the material we have learned in this course.
   
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
