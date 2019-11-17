@@ -28,12 +28,12 @@
 + Class #9 (**Functions and Packages**)
   + 11/12/2019
   + Upper West Side
-+ Class #10 (**Review Part1**)
++ Class #10 (**In Class Exercises**)
   + 11/19/2019
   + Upper West Side
-+ Class #11 (**Review Part2**)
++ Class #11 (**In Class Exercises**)
   + 11/26/2019
   + Upper West Side
-+ Class #12 (**Final Exam**)
++ Class #12 (**Review/Final Exam**)
   + 12/3/2019
   + Upper West Side
