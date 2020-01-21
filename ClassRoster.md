@@ -1,8 +1,11 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Class Roster: **Introductory Python**<br>  Fall 2019
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Class Roster: **Introductory Python**<br>  Spring 2020
 ---
 
 | Last Name | First Name | UserID | StudentID# | Session |
 |:---|:-----------|:--|:--|:--|
-| Vohra | Vedant |  _vvohra_ | 028 | IP1903 |
+| Inal | Maya Joy |  _mjinal_ | 029 | IP2001 |
+| Hope | Gibson |  _ghope_ | 030 | IP2002 |
+| Willis | Oliver |  _owillis_ | 031 | IP2002 |
+
 ---
-##### Registration for this session is OPEN.  <br> <center>Updated September 16th, 2019
+##### Registration for this session is OPEN.  <br> <center>Updated Januray 18th, 2020
