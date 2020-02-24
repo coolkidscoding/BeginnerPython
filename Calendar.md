@@ -14,28 +14,28 @@
   + 2/8/2020
   + Upper West Side
 + Class #5 (**Data Structures Part 2**)
-  + 2/15/2020
-  + Upper West Side
-+ Class #6 (**Loops Part1**)
   + 2/22/2020
   + Upper West Side
-+ Class #7 (**Loops Part1**)
++ Class #6 (**Loops Part1**)
+  + 2/29/2020
+  + Upper West Side
++ Class #7 (**Loops Part2**)
   + 2/29/2020
   + Upper West Side
 + Class #8 (**Conditionals**)
-  + 3/7/2020
-  + Upper West Side
-+ Class #9 (**Functions and Packages**)
   + 3/14/2020
   + Upper West Side
-+ Class #10 (**In Class Exercises**)
++ Class #9 (**Functions and Packages**)
   + 4/4/2020
   + Upper West Side
-+ Class #11 (**In Class Exercises**)
++ Class #10 (**In Class Exercises**)
   + 4/18/2020
   + Upper West Side
-+ Class #12 (**Final Exam**)
++ Class #11 (**In Class Exercises**)
   + 4/25/2020
+  + Upper West Side
++ Class #12 (**Final Exam**)
+  + 5/2/2020
   + Upper West Side
 
 > **Class Code: IP2002**
@@ -57,7 +57,7 @@
 + Class #6 (**Loops Part1**)
   + 2/27/2020
   + Upper East Side
-+ Class #7 (**Loops Part1**)
++ Class #7 (**Loops Part2**)
   + 3/5/2020
   + Upper East Side
 + Class #8 (**Conditionals**)
