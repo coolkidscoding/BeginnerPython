@@ -20,7 +20,7 @@
   + 2/29/2020
   + Upper West Side
 + Class #7 (**Loops Part2**)
-  + TBD
+  + 3/14/2020
   + Upper West Side
 + Class #8 (**Conditionals**)
   + TBD
