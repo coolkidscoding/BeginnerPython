@@ -61,17 +61,17 @@
   + 3/5/2020
   + Upper East Side
 + Class #8 (**Conditionals**)
-  + 3/12/2020
-  + Upper East Side
-+ Class #9 (**Functions and Packages**)
   + 4/2/2020
   + Upper East Side
-+ Class #10 (**In Class Exercises**)
++ Class #9 (**Functions and Packages**)
   + 4/9/2020
   + Upper East Side
-+ Class #11 (**In Class Exercises**)
++ Class #10 (**In Class Exercises**)
   + 4/16/2020
   + Upper East Side
-+ Class #12 (**Final Exam**)
++ Class #11 (**In Class Exercises**)
   + 4/23/2020
+  + Upper East Side
++ Class #12 (**Final Exam**)
+  + 4/30/2020
   + Upper East Side
