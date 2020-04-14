@@ -23,10 +23,10 @@
   + 3/14/2020
   + Upper West Side
 + Class #8 (**Conditionals**)
-  + TBD
+  + 4/4/2020
   + Upper West Side
 + Class #9 (**Functions and Packages**)
-  + TBD
+  + 4/11/2020
   + Upper West Side
 + Class #10 (**In Class Exercises**)
   + TBD
