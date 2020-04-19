@@ -24,19 +24,19 @@
   + Upper West Side
 + Class #8 (**Conditionals**)
   + 4/4/2020
-  + Upper West Side
+  + Remote Learning
 + Class #9 (**Functions and Packages**)
   + 4/11/2020
-  + Upper West Side
+  + Remote Learning
 + Class #10 (**In Class Exercises**)
-  + TBD
-  + Upper West Side
+  + 4/18/2020
+  + Remote Learning
 + Class #11 (**In Class Exercises**)
   + TBD
-  + Upper West Side
+  + Remote Learning
 + Class #12 (**Final Exam**)
   + TBD
-  + Upper West Side
+  + Remote Learning
 
 > **Class Code: IP2002**
 + Class #1 (**Background and Development Environment**)
@@ -62,16 +62,16 @@
   + Upper East Side
 + Class #8 (**Conditionals**)
   + 4/2/2020
-  + Upper East Side
+  + Remote Learning
 + Class #9 (**Functions and Packages**)
   + 4/9/2020
-  + Upper East Side
+  + Remote Learning
 + Class #10 (**In Class Exercises**)
   + 4/16/2020
-  + Upper East Side
+  + Remote Learning
 + Class #11 (**In Class Exercises**)
   + 4/23/2020
-  + Upper East Side
-+ Class #12 (**Final Exam**)
+  + Remote Learning
++ Class #12 (**In Class Exercises**)
   + 4/30/2020
-  + Upper East Side
+  + Remote Learning
