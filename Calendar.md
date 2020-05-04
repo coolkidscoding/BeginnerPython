@@ -32,10 +32,10 @@
   + 4/18/2020
   + Remote Learning
 + Class #11 (**In Class Exercises**)
-  + TBD
+  + 4/25/2020
   + Remote Learning
-+ Class #12 (**Final Exam**)
-  + TBD
++ Class #12 (**In Class Exercises**)
+  + 5/2/2020
   + Remote Learning
 
 > **Class Code: IP2002**
